@@ -27,7 +27,7 @@ The project includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deviduttaparida/loanlense.git
+   git clone https://github.com/deviduttaparida/loan-lense.git
    cd loanlense
    ```
 
