@@ -122,6 +122,6 @@ loanlense/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## GitHub Repository
+## Project is Live 
 
-Visit the project on GitHub: [LoanLense](https://github.com/deviduttaparida/loanlense)
+Visit the project : [LoanLense](https://loanlense-universal-loan.streamlit.app/)

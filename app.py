@@ -20,7 +20,7 @@ features = artifacts["features"]
 
 # -----------------------------
 
-st.title("🏦 Loan Approval Prediction System")
+st.title("🏦 LoanLense : A Loan Approval Prediction System")
 
 st.write("Enter applicant details to check loan approval probability")
 
