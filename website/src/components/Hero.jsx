@@ -34,7 +34,7 @@ export default function Hero() {
             </svg>
           </a>
           <a
-            href="https://github.com/deviduttaparida/loan-lense"
+            href="https://github.com/devidutta-07/loan-lense.git"
             target="_blank"
             rel="noopener noreferrer"
             className={`inline-flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-semibold border transition-colors ${dark ? 'border-slate-700 text-slate-300 hover:bg-slate-800' : 'border-slate-200 text-slate-700 hover:bg-slate-50'}`}
