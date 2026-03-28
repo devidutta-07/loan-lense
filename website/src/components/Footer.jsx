@@ -55,7 +55,7 @@ export default function Footer() {
                 Architecture built with React, Vite, and Tailwind CSS. Backed by XGBoost Intelligence.
              </p>
              <a 
-                href="mailto:devidutta07@gmail.com" 
+                href="mailto:deviduttame32@gmail.com" 
                 className="text-white font-semibold text-sm hover:text-primary-400 transition-colors flex items-center gap-2"
              >
                 Contact Developer
