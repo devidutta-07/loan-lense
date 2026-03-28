@@ -1,2 +1,6 @@
 .python-version
 .venv
+
+uv.lock
+
+node_modules
